@@ -1,5 +1,5 @@
 # Web Developement Bio
-> This Website was designed for the purpose of informing Future Employers and The General Public of My knowledge and skills in Web Developement. While on this page you will be able to navigate through My Experience, Develpoment and Certifications. Access to past and present projects will also be available. [Gitub](https://github.com/FutureSoftwarePro)
+> This Website was designed for the purpose of informing Future Employers and The General Public of My knowledge and skills in Web Developement. While on this page you will be able to navigate through My Experience, Develpoment and Certifications. Access to past and present projects will also be available. [Github](https://github.com/FutureSoftwarePro)
 
 ---
 ## Tools For Users
