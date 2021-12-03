@@ -1,0 +1,63 @@
+h3{
+    text-decoration: underline;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+.box1{
+    width:15%;
+    border: 5px solid black;
+    padding: 10px;
+    background-color: red;  
+}
+.box2{
+    width:15%;
+    border: 5px dotted yellow;
+    padding: 10px;
+    background-color: blue; 
+}
+
+.box3{
+    width:15%;
+    border: 5px solid black;);
+    padding: 10px;
+    background-color: green; 
+}
+
+.button{
+    background-color: teal; 
+}
+.button1{
+    background-color: blue;
+}
+
+.Hide{
+    background-color: teal; 
+}
+
+.Hide4{
+    background-color: yellow;
+}
+
+.Reset{
+    background-color: red;
+}
+
+.Show All{
+    background-color: yellow;
+}
+
+    
+
+
+
+
+
+
+
