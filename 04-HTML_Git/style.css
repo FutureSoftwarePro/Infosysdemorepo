@@ -1,9 +1,13 @@
 h1{
     color: white;
     text-align: center;
+    text-decoration:underline;
 }
 body{
     background-color:grey;
+}
+p{
+    width: 50%;
 }
 h2{
     color: darkblue;
